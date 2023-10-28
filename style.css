@@ -1,0 +1,96 @@
+.body {
+    background-image: url(img/fon.jpg);
+    background-size: auto;
+
+}
+
+.header {
+    color: rgb(7, 4, 48);
+    margin: auto;
+    width: 300px;
+    text-align: center;
+    display: flex;
+}
+
+
+
+.about-me__photo {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-me__photo:hover {
+    box-shadow: 10px 5px 5px rgb(153, 100, 100)
+}
+
+.about-me__text {
+    text-align: center;
+    color: rgb(7, 4, 48);
+}
+
+.my-travel__subtitle {
+    text-align: center;
+    color: rgb(7, 4, 48);
+}
+
+.about-me__content_list {
+    padding: 10px;
+    text-align: center;
+    margin: 50px;
+    color: rgb(7, 4, 48);
+}
+
+.my-travel__tour {
+    padding-inline: 30px;
+    text-align: center;
+}
+
+.my-travel__tour1 {
+    bottom: 40px;
+    margin: 7px;
+    display: flex;
+
+}
+
+.my-travel__tour1_img {
+    border: 7px solid;
+    color: #2e2828;
+    padding: 1px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+
+}
+
+.my-travel__tour2 {
+    bottom: 0px;
+    margin: 7px;
+    display: flex;
+}
+
+.my-travel__tour2_img2 {
+    border: 7px solid;
+    color: #2e2828;
+    padding: 1px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+
+}
+
+.my-travel__tour3 {
+    bottom: 40px;
+    margin: 7px;
+    display: flex;
+
+}
+
+.my-travel__tour3_img3 {
+    border: 7px solid;
+    color: #2e2828;
+    padding: 1px;
+    margin-right: 30px;
+    margin-bottom: 0px;
+
+}
